@@ -2,10 +2,6 @@
   background-color: #4484CE;
   color: white;
 }
-h1 {
-
-}
-
 .span2 {
   color: white;
   background-color: #949799;
@@ -17,12 +13,24 @@ h1 {
   background-color: #0B3C5D;
   border-radius: 5px;
   color: white;
+  height: 100%;
 }
-.btn {
+#destinationButton {
   background-color: #0B3C5D;
   color: white;
   margin: 10px 10px 10px 0px;
+  border-radius: 5px;
 }
 input {
   margin: 10px 10px 10px 10px;
+}
+#map {
+ height: 100%;
+}
+
+/* Optional: Makes the sample page fill the window. */
+html, body {
+ height: 100%;
+ margin: 0;
+ padding: 0;
 }
