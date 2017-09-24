@@ -1,0 +1,28 @@
+.header {
+  background-color: #4484CE;
+  color: white;
+}
+h1 {
+
+}
+
+.span2 {
+  color: white;
+  background-color: #949799;
+  display: block;
+  margin-right: 5%;
+  border-radius: 5px;
+}
+.span10 {
+  background-color: #0B3C5D;
+  border-radius: 5px;
+  color: white;
+}
+.btn {
+  background-color: #0B3C5D;
+  color: white;
+  margin: 10px 10px 10px 0px;
+}
+input {
+  margin: 10px 10px 10px 10px;
+}
